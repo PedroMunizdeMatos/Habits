@@ -1,7 +1,7 @@
-<h1 align="center"> RocketSeat </h1>
+<h1 align="center"> Habits </h1>
 
 <p align="center">
-Portifólio destinado aos estudos e projetos realizados através dos conhecimentos adquiridos na plataforma da rocketseat <br/>
+NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@ Portifólio destinado aos estudos e projetos realizados através dos conheciment
 
 <br>
 
+<p align="center">
+  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -28,12 +32,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Repositório é um para apresentar a conclusão do pequeno desafio da NLW Habits.
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://pedromunizdematos.github.io/Habits/)
 
 ## 🔖 Layout
 
-Os layouts utilizados foram disponibilizados pela RocketSeat através do Figma
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 📜 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+---
