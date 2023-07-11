@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Repositório é um agregador de projetos desenvolvidos durante os estudos na RocketSeat.
+O Repositório é um para apresentar a conclusão do pequeno desafio da NLW Habits.
 
 ## 🔖 Layout
 
